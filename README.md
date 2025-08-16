@@ -4,6 +4,7 @@
 ![LWJGL](https://img.shields.io/badge/LWJGL-3.3.6-green.svg)
 
 JavaGame3D is a lightweight 3D engine developed in Java, leveraging the power of the Lightweight Java Game Library (LWJGL). This project serves as a foundational exploration into 3D graphics programming, implementing core features necessary for creating interactive three-dimensional applications.
+Work only on Linux (Windows support coming soon)
 
 ## Features
 
